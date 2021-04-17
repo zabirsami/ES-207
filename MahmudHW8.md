@@ -8,13 +8,15 @@ output:
 ---
 
 
-
-
 ```r
-print("hello world")
+a = 4
+b = 3
+c = a + b
+print(c)
 ```
 
 ```
-## [1] "hello world"
+## [1] 7
 ```
+
 
